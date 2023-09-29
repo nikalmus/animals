@@ -1,0 +1,31 @@
+/* styles.css */
+
+/* Define styles for the main App component */
+.App {
+    text-align: center;
+  }
+  
+  /* Define styles for the home page container */
+  .homePageStyle {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  /* Define styles for the custom header */
+  header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Define styles for the "Get a random animal" button */
+  button {
+    margin-top: 10px;
+  }
+  
+  /* Define styles for the animal names */
+  h2 {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
